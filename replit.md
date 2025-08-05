@@ -1,6 +1,6 @@
 # Overview
 
-This is a static website for a Computer Science Department at University College. The site provides information about the department's academic programs, faculty, courses, and contact details. It's built as a traditional multi-page HTML website with a shared CSS stylesheet and uses Font Awesome icons for visual enhancement. The site features a clean, professional design with a blue gradient color scheme and responsive layout principles.
+This is a static website for a Computer Science Department at Sanjivani University, located in Kopergaon, Maharashtra. The site provides information about the department's academic programs, faculty, courses, and contact details. It's built as a traditional multi-page HTML website with a shared CSS stylesheet and uses Font Awesome icons for visual enhancement. The site features a clean, professional design with a blue gradient color scheme and responsive layout principles.
 
 # User Preferences
 
